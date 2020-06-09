@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/Bjct7qslF4fOolDtggiFnUAbeOoPWPcE1VjYBm/F0sd0gqtoDuBZYDB+oG6hpNioCoWjIJTCCLrioXPaDf/w==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\C#\\ControlFlow\\ControlFlow\\BMI Calculator\\BMI Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benny\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

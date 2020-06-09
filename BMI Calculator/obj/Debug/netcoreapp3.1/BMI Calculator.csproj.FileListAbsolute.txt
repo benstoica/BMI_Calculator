@@ -1,0 +1,13 @@
+F:\Projects\C#\ControlFlow\ControlFlow\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.exe
+F:\Projects\C#\ControlFlow\ControlFlow\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.deps.json
+F:\Projects\C#\ControlFlow\ControlFlow\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.runtimeconfig.json
+F:\Projects\C#\ControlFlow\ControlFlow\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.runtimeconfig.dev.json
+F:\Projects\C#\ControlFlow\ControlFlow\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.dll
+F:\Projects\C#\ControlFlow\ControlFlow\BMI Calculator\bin\Debug\netcoreapp3.1\BMI Calculator.pdb
+F:\Projects\C#\ControlFlow\ControlFlow\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.AssemblyInfoInputs.cache
+F:\Projects\C#\ControlFlow\ControlFlow\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.AssemblyInfo.cs
+F:\Projects\C#\ControlFlow\ControlFlow\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.csproj.CoreCompileInputs.cache
+F:\Projects\C#\ControlFlow\ControlFlow\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.dll
+F:\Projects\C#\ControlFlow\ControlFlow\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.pdb
+F:\Projects\C#\ControlFlow\ControlFlow\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.genruntimeconfig.cache
+F:\Projects\C#\ControlFlow\ControlFlow\BMI Calculator\obj\Debug\netcoreapp3.1\BMI Calculator.csprojAssemblyReference.cache
